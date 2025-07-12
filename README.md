@@ -27,5 +27,6 @@ Overall, this Java file handling utility is a solid introductory project that il
 #OUTPUT
 
 <img width="1918" height="632" alt="Image" src="https://github.com/user-attachments/assets/584dc990-81fc-4fb6-a1f6-0ea95cbe22f9" />
+<img width="1420" height="257" alt="Image" src="https://github.com/user-attachments/assets/3e2b2ae5-5da2-4504-9fdb-2d2a9ee1b44e" />
 
 
