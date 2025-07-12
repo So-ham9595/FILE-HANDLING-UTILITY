@@ -23,3 +23,9 @@ The final step in the program is to read the modified file again, allowing the u
 This project is ideal for beginners who are just starting with Java and want to understand file handling mechanisms. It provides hands-on experience with commonly used I/O classes, encourages structured coding practices, and introduces exception handling through try-catch blocks. The inclusion of a finally block to close the Scanner object shows attention to good resource management practices. Additionally, the logical flow of operations—from writing to modifying—makes it easy for learners to follow along and build on top of this foundation.
 
 Overall, this Java file handling utility is a solid introductory project that illustrates the power and simplicity of working with files in Java. It’s well-suited for academic assignments, internship tasks, coding practice, or even as a base for more advanced applications that require persistent storage. By combining readability, simplicity, and practical utility, this project not only serves as an educational tool but also highlights core Java programming concepts in a real-world context.
+
+#OUTPUT
+
+<img width="1918" height="632" alt="Image" src="https://github.com/user-attachments/assets/584dc990-81fc-4fb6-a1f6-0ea95cbe22f9" />
+
+
